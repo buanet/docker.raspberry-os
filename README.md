@@ -19,8 +19,12 @@ You can configure settings like locales, default User and more by changing the `
 
 ## Changelog
 
-### v0.0.1 (2021-03-10)
-    * project started / initial release
+### v1.0.0 (2021-10-03)
+* fixing libseccomp2 version
+* changing default user
+* adding ci
+* v0.0.1 (2021-03-10)
+  * project started / initial release
 
 ## License
 
